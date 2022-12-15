@@ -4,7 +4,7 @@ COMMANDS = {
     "start": "Check whether I am alive",
     "forward": "Settings for Bot",
     "remove": "Update the bot",
-    "help": "Contact Owner",
+    "help": "©Lightning_smm",
 }
 
 REGISTER_COMMANDS = True
@@ -20,4 +20,4 @@ class BotMessages:
 
     # pylint: disable=too-few-public-methods
     start = "Hi! I am alive"
-    bot_help = "Buy Your Own Bot @Gamer_4560"
+    bot_help = "Cricket Live Score and Updates @Lightning_smm"
